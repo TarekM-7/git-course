@@ -6,3 +6,4 @@ blue
 indigo
 violet
 black
+blue blue blue
